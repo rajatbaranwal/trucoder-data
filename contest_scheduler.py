@@ -82,5 +82,6 @@ for d in data['objects']:
         ).__dict__
     )
    
+json_object = json.dumps(processedData, indent = 4)
 with open('data/contests.json', 'w') as outfile:
     json.dump(json_object, outfile)
