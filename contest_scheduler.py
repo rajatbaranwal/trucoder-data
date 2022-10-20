@@ -23,7 +23,7 @@ def getTimeInMillis(time_str):
     return int((time_object-epoch).total_seconds()*1000)
 
 '''
-facebook: 133
+Meta: 133
 codeforces: 1
 codechef: 2
 leetcode: 102
@@ -58,7 +58,7 @@ def getPlatformNameFromResourceId(clistId):
     elif (clistId == 35):
         return 'Google'
     elif (clistId == 133):
-        return 'Facebook'
+        return 'Meta'
     else:
         return 'Platform not supported'
     
@@ -81,7 +81,6 @@ for d in data['objects']:
             endTime=getTimeInMillis(d['end'])
         ).__dict__
     )
-   
-json_object = json.dumps(processedData)
+    
 with open('data/contests.json', 'w') as outfile:
-    json.dump(json_object, outfile)
+    json.dump(processedData, outfile, indent=4)
