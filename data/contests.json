@@ -3,7 +3,7 @@
         {
             "id": 6,
             "name": "Facebook Hacker Cup 2021",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/fhc/2021",
             "startTime": 1639180800000,
             "endTime": 1639180800000
@@ -123,7 +123,7 @@
         {
             "id": 6,
             "name": "IOI 1993",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/ioi/1993",
             "startTime": 751507200000,
             "endTime": 751507200000
@@ -131,7 +131,7 @@
         {
             "id": 6,
             "name": "IOI 1994",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/ioi/1994",
             "startTime": 773798400000,
             "endTime": 773798400000
@@ -171,7 +171,7 @@
         {
             "id": 6,
             "name": "ACM-ICPC 2007 World Finals",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/icpc/2007",
             "startTime": 1173916800000,
             "endTime": 1173916800000
@@ -203,7 +203,7 @@
         {
             "id": 6,
             "name": "Facebook Hacker Cup 2011",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/fhc/2011",
             "startTime": 1299888000000,
             "endTime": 1299888000000
@@ -211,7 +211,7 @@
         {
             "id": 6,
             "name": "IOI 2007",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/ioi/2007",
             "startTime": 1187740800000,
             "endTime": 1187740800000
@@ -219,7 +219,7 @@
         {
             "id": 6,
             "name": "IOI 2017",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/ioi/2017",
             "startTime": 1501804800000,
             "endTime": 1501804800000
@@ -243,7 +243,7 @@
         {
             "id": 6,
             "name": "IOI 1989",
-            "platform": "Facebook",
+            "platform": "Meta",
             "link": "https://cphof.org/standings/ioi/1989",
             "startTime": 611539200000,
             "endTime": 611539200000
