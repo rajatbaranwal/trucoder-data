@@ -9,6 +9,14 @@
             "endTime": 1639180800000
         },
         {
+            "id": 2,
+            "name": "Starters 61 (Rated for Divs 2, 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START61",
+            "startTime": 1666189800000,
+            "endTime": 1666200600000
+        },
+        {
             "id": 1,
             "name": "Codeforces Round #626 (Div. 2, based on Moscow Open Olympiad in Informatics)",
             "platform": "Codeforces",
