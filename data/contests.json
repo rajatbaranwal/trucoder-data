@@ -1,20 +1,20 @@
 {
     "contests": [
         {
-            "id": 6,
-            "name": "Facebook Hacker Cup 2021",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/fhc/2021",
-            "startTime": 1639180800000,
-            "endTime": 1639180800000
-        },
-        {
             "id": 2,
             "name": "Starters 61 (Rated for Divs 2, 3 & 4)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START61",
             "startTime": 1666189800000,
             "endTime": 1666200600000
+        },
+        {
+            "id": 6,
+            "name": "Facebook Hacker Cup 2021",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/fhc/2021",
+            "startTime": 1639180800000,
+            "endTime": 1639180800000
         },
         {
             "id": 1,
