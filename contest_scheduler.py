@@ -62,8 +62,7 @@ def getPlatformNameFromResourceId(clistId):
     else:
         return 'Platform not supported'
     
-
-URL = "https://clist.by:443/api/v2/contest/?filtered=true&order_by=-start&limit=50&username=MaskedCarrot&api_key=3756ead7ff87d60d0029be2c4d3b6847ad6aa1b5"
+URL = "https://clist.by:443/api/v2/contest/?limit=300&start_time__during=8640000&resource_id__in=1%2C2%2C93%2C102%2C133%2C35&filtered=false&order_by=-start&username=MaskedCarrot&api_key=3756ead7ff87d60d0029be2c4d3b6847ad6aa1b5"
 
 data = requests.get(url = URL).json()
 processedData = {'contests': []}
