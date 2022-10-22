@@ -26,17 +26,17 @@
         },
         {
             "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1752",
+            "link": "http://codeforces.com/contests/1751",
             "startTime": 1668643200000,
             "endTime": 1669852740000
         },
         {
             "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1751",
+            "link": "http://codeforces.com/contests/1752",
             "startTime": 1668643200000,
             "endTime": 1669852740000
         },
