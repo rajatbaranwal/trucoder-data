@@ -186,7 +186,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 62 ",
+            "name": "Starters 62 (Rated for Divs 2, 3 & 4)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START62",
             "startTime": 1666794600000,
@@ -1242,17 +1242,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #808 (Div. 1)",
+            "name": "Codeforces Round #808 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1707",
+            "link": "http://codeforces.com/contests/1708",
             "startTime": 1657982100000,
             "endTime": 1657989300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #808 (Div. 2)",
+            "name": "Codeforces Round #808 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1708",
+            "link": "http://codeforces.com/contests/1707",
             "startTime": 1657982100000,
             "endTime": 1657989300000
         },
@@ -1802,17 +1802,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #794 (Div. 1)",
+            "name": "Codeforces Round #794 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1685",
+            "link": "http://codeforces.com/contests/1686",
             "startTime": 1653500100000,
             "endTime": 1653508200000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #794 (Div. 2)",
+            "name": "Codeforces Round #794 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1686",
+            "link": "http://codeforces.com/contests/1685",
             "startTime": 1653500100000,
             "endTime": 1653508200000
         },
@@ -1978,17 +1978,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #789 (Div. 1)",
+            "name": "Codeforces Round #789 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1677",
+            "link": "http://codeforces.com/contests/1678",
             "startTime": 1652020500000,
             "endTime": 1652027700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #789 (Div. 2)",
+            "name": "Codeforces Round #789 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1678",
+            "link": "http://codeforces.com/contests/1677",
             "startTime": 1652020500000,
             "endTime": 1652027700000
         },
@@ -2329,20 +2329,20 @@
             "endTime": 1650168000000
         },
         {
-            "id": 2,
-            "name": "April Lunchtime 2022 (Rated for All)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/LTIME107",
-            "startTime": 1650119400000,
-            "endTime": 1650128400000
-        },
-        {
             "id": 4,
             "name": "Biweekly Contest 76",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-76",
             "startTime": 1650119400000,
             "endTime": 1650124800000
+        },
+        {
+            "id": 2,
+            "name": "April Lunchtime 2022 (Rated for All)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/LTIME107",
+            "startTime": 1650119400000,
+            "endTime": 1650128400000
         },
         {
             "id": 3,
