@@ -65,20 +65,20 @@
             "endTime": 1668270900000
         },
         {
-            "id": 2,
-            "name": "November Long 2022 (Rated for Div 3 & 4)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/NOV221",
-            "startTime": 1668263400000,
-            "endTime": 1668418200000
-        },
-        {
             "id": 4,
             "name": "Biweekly Contest 91",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-91",
             "startTime": 1668263400000,
             "endTime": 1668268800000
+        },
+        {
+            "id": 2,
+            "name": "November Long 2022 (Rated for Div 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/NOV221",
+            "startTime": 1668263400000,
+            "endTime": 1668418200000
         },
         {
             "id": 3,
@@ -337,20 +337,20 @@
             "endTime": 1665852600000
         },
         {
-            "id": 4,
-            "name": "Biweekly Contest 89",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-89",
-            "startTime": 1665844200000,
-            "endTime": 1665849600000
-        },
-        {
             "id": 2,
             "name": "Coders",
             "platform": "Codechef",
             "link": "https://www.codechef.com/CODE2022",
             "startTime": 1665844200000,
             "endTime": 1665855000000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 89",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-89",
+            "startTime": 1665844200000,
+            "endTime": 1665849600000
         },
         {
             "id": 5,
@@ -1274,17 +1274,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #808 (Div. 2)",
+            "name": "Codeforces Round #808 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1708",
+            "link": "http://codeforces.com/contests/1707",
             "startTime": 1657982100000,
             "endTime": 1657989300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #808 (Div. 1)",
+            "name": "Codeforces Round #808 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1707",
+            "link": "http://codeforces.com/contests/1708",
             "startTime": 1657982100000,
             "endTime": 1657989300000
         },
@@ -1746,17 +1746,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #796 (Div. 1)",
+            "name": "Codeforces Round #796 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1687",
+            "link": "http://codeforces.com/contests/1688",
             "startTime": 1654266900000,
             "endTime": 1654274100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #796 (Div. 2)",
+            "name": "Codeforces Round #796 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1688",
+            "link": "http://codeforces.com/contests/1687",
             "startTime": 1654266900000,
             "endTime": 1654274100000
         },
@@ -2322,17 +2322,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #783 (Div. 2)",
+            "name": "Codeforces Round #783 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1668",
+            "link": "http://codeforces.com/contests/1667",
             "startTime": 1650378900000,
             "endTime": 1650386100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #783 (Div. 1)",
+            "name": "Codeforces Round #783 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1667",
+            "link": "http://codeforces.com/contests/1668",
             "startTime": 1650378900000,
             "endTime": 1650386100000
         },
