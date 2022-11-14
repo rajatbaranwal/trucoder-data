@@ -497,20 +497,20 @@
             "endTime": 1665849600000
         },
         {
-            "id": 3,
-            "name": "Panasonic Programming Contest 2022(AtCoder Beginner Contest 273)",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc273",
-            "startTime": 1665835200000,
-            "endTime": 1665841200000
-        },
-        {
             "id": 5,
             "name": "Kick Start Round G",
             "platform": "Google",
             "link": "https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1",
             "startTime": 1665835200000,
             "endTime": 1665846000000
+        },
+        {
+            "id": 3,
+            "name": "Panasonic Programming Contest 2022(AtCoder Beginner Contest 273)",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc273",
+            "startTime": 1665835200000,
+            "endTime": 1665841200000
         },
         {
             "id": 1,
@@ -1890,17 +1890,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #796 (Div. 2)",
+            "name": "Codeforces Round #796 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1688",
+            "link": "http://codeforces.com/contests/1687",
             "startTime": 1654266900000,
             "endTime": 1654274100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #796 (Div. 1)",
+            "name": "Codeforces Round #796 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1687",
+            "link": "http://codeforces.com/contests/1688",
             "startTime": 1654266900000,
             "endTime": 1654274100000
         },
@@ -1978,17 +1978,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #794 (Div. 1)",
+            "name": "Codeforces Round #794 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1685",
+            "link": "http://codeforces.com/contests/1686",
             "startTime": 1653500100000,
             "endTime": 1653508200000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #794 (Div. 2)",
+            "name": "Codeforces Round #794 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1686",
+            "link": "http://codeforces.com/contests/1685",
             "startTime": 1653500100000,
             "endTime": 1653508200000
         },
