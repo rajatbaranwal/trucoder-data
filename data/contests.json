@@ -50,6 +50,14 @@
         },
         {
             "id": 4,
+            "name": "Weekly Contest 321",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-321",
+            "startTime": 1669516200000,
+            "endTime": 1669521600000
+        },
+        {
+            "id": 4,
             "name": "Biweekly Contest 92",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-92",
@@ -313,20 +321,20 @@
             "endTime": 1667665800000
         },
         {
-            "id": 2,
-            "name": "Code-MAT",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/CMAT2022",
-            "startTime": 1667649600000,
-            "endTime": 1667656800000
-        },
-        {
             "id": 3,
             "name": "AtCoder Beginner Contest 276",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc276",
             "startTime": 1667649600000,
             "endTime": 1667655600000
+        },
+        {
+            "id": 2,
+            "name": "Code-MAT",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/CMAT2022",
+            "startTime": 1667649600000,
+            "endTime": 1667656800000
         },
         {
             "id": 3,
@@ -825,20 +833,20 @@
             "endTime": 1664618400000
         },
         {
-            "id": 2,
-            "name": "DECODE by SCA GBPIET",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DCDE2022",
-            "startTime": 1663390800000,
-            "endTime": 1663396200000
-        },
-        {
             "id": 3,
             "name": "JOI 2022/2023 \u4e00\u6b21\u4e88\u9078 (\u7b2c1\u56de) \u904e\u53bb\u554f",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/joi2023yo1a",
             "startTime": 1663390800000,
             "endTime": 1663395600000
+        },
+        {
+            "id": 2,
+            "name": "DECODE by SCA GBPIET",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DCDE2022",
+            "startTime": 1663390800000,
+            "endTime": 1663396200000
         },
         {
             "id": 2,
@@ -1394,17 +1402,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #810 (Div. 1)",
+            "name": "Codeforces Round #810 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1710",
+            "link": "http://codeforces.com/contests/1711",
             "startTime": 1658673300000,
             "endTime": 1658680500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #810 (Div. 2)",
+            "name": "Codeforces Round #810 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1711",
+            "link": "http://codeforces.com/contests/1710",
             "startTime": 1658673300000,
             "endTime": 1658680500000
         },
@@ -1490,17 +1498,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #808 (Div. 1)",
+            "name": "Codeforces Round #808 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1707",
+            "link": "http://codeforces.com/contests/1708",
             "startTime": 1657982100000,
             "endTime": 1657989300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #808 (Div. 2)",
+            "name": "Codeforces Round #808 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1708",
+            "link": "http://codeforces.com/contests/1707",
             "startTime": 1657982100000,
             "endTime": 1657989300000
         },
@@ -1818,17 +1826,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #800 (Div. 2)",
+            "name": "Codeforces Round #800 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1694",
+            "link": "http://codeforces.com/contests/1693",
             "startTime": 1655390100000,
             "endTime": 1655397300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #800 (Div. 1)",
+            "name": "Codeforces Round #800 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1693",
+            "link": "http://codeforces.com/contests/1694",
             "startTime": 1655390100000,
             "endTime": 1655397300000
         },
@@ -1962,17 +1970,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #796 (Div. 2)",
+            "name": "Codeforces Round #796 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1688",
+            "link": "http://codeforces.com/contests/1687",
             "startTime": 1654266900000,
             "endTime": 1654274100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #796 (Div. 1)",
+            "name": "Codeforces Round #796 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1687",
+            "link": "http://codeforces.com/contests/1688",
             "startTime": 1654266900000,
             "endTime": 1654274100000
         },
@@ -2050,17 +2058,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #794 (Div. 1)",
+            "name": "Codeforces Round #794 (Div. 2)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1685",
+            "link": "http://codeforces.com/contests/1686",
             "startTime": 1653500100000,
             "endTime": 1653508200000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #794 (Div. 2)",
+            "name": "Codeforces Round #794 (Div. 1)",
             "platform": "Codeforces",
-            "link": "http://codeforces.com/contests/1686",
+            "link": "http://codeforces.com/contests/1685",
             "startTime": 1653500100000,
             "endTime": 1653508200000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/CDDU2022",
             "startTime": 1651159800000,
             "endTime": 1651170600000
-        },
-        {
-            "id": 2,
-            "name": "CodeChef Starters 36 (Rated for Div 2, 3 & 4)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START36",
-            "startTime": 1651069800000,
-            "endTime": 1651080600000
         }
     ]
 }
