@@ -345,20 +345,20 @@
             "endTime": 1669852740000
         },
         {
-            "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1752",
-            "startTime": 1668643200000,
-            "endTime": 1669852740000
-        },
-        {
             "id": 6,
             "name": "Topcoder Open 2022 Marathon",
             "platform": "Meta",
             "link": "https://cphof.org/standings/tco_mar/2022",
             "startTime": 1668643200000,
             "endTime": 1668643200000
+        },
+        {
+            "id": 1,
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1752",
+            "startTime": 1668643200000,
+            "endTime": 1669852740000
         },
         {
             "id": 2,
@@ -1586,17 +1586,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #810 (Div. 1)",
+            "name": "Codeforces Round #810 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1710",
+            "link": "https://codeforces.com/contests/1711",
             "startTime": 1658673300000,
             "endTime": 1658680500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #810 (Div. 2)",
+            "name": "Codeforces Round #810 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1711",
+            "link": "https://codeforces.com/contests/1710",
             "startTime": 1658673300000,
             "endTime": 1658680500000
         },
@@ -2010,17 +2010,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #800 (Div. 1)",
+            "name": "Codeforces Round #800 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1693",
+            "link": "https://codeforces.com/contests/1694",
             "startTime": 1655390100000,
             "endTime": 1655397300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #800 (Div. 2)",
+            "name": "Codeforces Round #800 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1694",
+            "link": "https://codeforces.com/contests/1693",
             "startTime": 1655390100000,
             "endTime": 1655397300000
         },
