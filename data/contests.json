@@ -298,7 +298,7 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round #842 (Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1768",
             "startTime": 1672929300000,
@@ -506,14 +506,6 @@
         },
         {
             "id": 2,
-            "name": "FallStack",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/FLST2022",
-            "startTime": 1670682600000,
-            "endTime": 1670689800000
-        },
-        {
-            "id": 2,
             "name": "December Long 2022 (Rated for Div 3 & 4)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DEC221",
@@ -529,6 +521,14 @@
             "endTime": 1670688000000
         },
         {
+            "id": 2,
+            "name": "FallStack",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/FLST2022",
+            "startTime": 1670682600000,
+            "endTime": 1670689800000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 281",
             "platform": "Atcoder",
@@ -538,17 +538,17 @@
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
+            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
+            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
@@ -753,14 +753,6 @@
             "endTime": 1668790200000
         },
         {
-            "id": 6,
-            "name": "Topcoder Open 2022 Marathon",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/tco_mar/2022",
-            "startTime": 1668643200000,
-            "endTime": 1668643200000
-        },
-        {
             "id": 1,
             "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
             "platform": "Codeforces",
@@ -775,6 +767,14 @@
             "link": "https://codeforces.com/contests/1751",
             "startTime": 1668643200000,
             "endTime": 1669852740000
+        },
+        {
+            "id": 6,
+            "name": "Topcoder Open 2022 Marathon",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/tco_mar/2022",
+            "startTime": 1668643200000,
+            "endTime": 1668643200000
         },
         {
             "id": 2,
@@ -817,20 +817,20 @@
             "endTime": 1668270900000
         },
         {
-            "id": 4,
-            "name": "Biweekly Contest 91",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-91",
-            "startTime": 1668263400000,
-            "endTime": 1668268800000
-        },
-        {
             "id": 2,
             "name": "November Long 2022 (Rated for Div 3 & 4)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/NOV221",
             "startTime": 1668263400000,
             "endTime": 1668418200000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 91",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-91",
+            "startTime": 1668263400000,
+            "endTime": 1668268800000
         },
         {
             "id": 3,
@@ -1177,20 +1177,20 @@
             "endTime": 1665849600000
         },
         {
-            "id": 5,
-            "name": "Kick Start Round G",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1",
-            "startTime": 1665835200000,
-            "endTime": 1665846000000
-        },
-        {
             "id": 3,
             "name": "Panasonic Programming Contest 2022(AtCoder Beginner Contest 273)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc273",
             "startTime": 1665835200000,
             "endTime": 1665841200000
+        },
+        {
+            "id": 5,
+            "name": "Kick Start Round G",
+            "platform": "Google",
+            "link": "https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1",
+            "startTime": 1665835200000,
+            "endTime": 1665846000000
         },
         {
             "id": 1,
@@ -1433,20 +1433,20 @@
             "endTime": 1664618400000
         },
         {
-            "id": 2,
-            "name": "DECODE by SCA GBPIET",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DCDE2022",
-            "startTime": 1663390800000,
-            "endTime": 1663396200000
-        },
-        {
             "id": 3,
             "name": "JOI 2022/2023 \u4e00\u6b21\u4e88\u9078 (\u7b2c1\u56de) \u904e\u53bb\u554f",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/joi2023yo1a",
             "startTime": 1663390800000,
             "endTime": 1663395600000
+        },
+        {
+            "id": 2,
+            "name": "DECODE by SCA GBPIET",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DCDE2022",
+            "startTime": 1663390800000,
+            "endTime": 1663396200000
         },
         {
             "id": 2,
