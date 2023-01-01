@@ -162,19 +162,19 @@
         },
         {
             "id": 5,
-            "name": "Code Jam Registration Open",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/",
-            "startTime": 1675267200000,
-            "endTime": 1678586400000
-        },
-        {
-            "id": 5,
             "name": "Hash Code Registration Opens",
             "platform": "Google",
             "link": "https://codingcompetitions.withgoogle.com/",
             "startTime": 1675267200000,
             "endTime": 1681490700000
+        },
+        {
+            "id": 5,
+            "name": "Code Jam Registration Open",
+            "platform": "Google",
+            "link": "https://codingcompetitions.withgoogle.com/",
+            "startTime": 1675267200000,
+            "endTime": 1678586400000
         },
         {
             "id": 1,
@@ -546,11 +546,11 @@
         },
         {
             "id": 2,
-            "name": "December Long 2022 (Rated for Div 3 & 4)",
+            "name": "FallStack",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/DEC221",
+            "link": "https://www.codechef.com/FLST2022",
             "startTime": 1670682600000,
-            "endTime": 1670837400000
+            "endTime": 1670689800000
         },
         {
             "id": 4,
@@ -562,11 +562,11 @@
         },
         {
             "id": 2,
-            "name": "FallStack",
+            "name": "December Long 2022 (Rated for Div 3 & 4)",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/FLST2022",
+            "link": "https://www.codechef.com/DEC221",
             "startTime": 1670682600000,
-            "endTime": 1670689800000
+            "endTime": 1670837400000
         },
         {
             "id": 3,
@@ -578,17 +578,17 @@
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
+            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
+            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
@@ -793,14 +793,6 @@
             "endTime": 1668790200000
         },
         {
-            "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1752",
-            "startTime": 1668643200000,
-            "endTime": 1669852740000
-        },
-        {
             "id": 6,
             "name": "Topcoder Open 2022 Marathon",
             "platform": "Meta",
@@ -813,6 +805,14 @@
             "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1751",
+            "startTime": 1668643200000,
+            "endTime": 1669852740000
+        },
+        {
+            "id": 1,
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1752",
             "startTime": 1668643200000,
             "endTime": 1669852740000
         },
@@ -1498,17 +1498,17 @@
         },
         {
             "id": 1,
-            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 1",
+            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 2",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1723",
+            "link": "https://codeforces.com/contests/1724",
             "startTime": 1663200000000,
             "endTime": 1664496000000
         },
         {
             "id": 1,
-            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 2",
+            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 1",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1724",
+            "link": "https://codeforces.com/contests/1723",
             "startTime": 1663200000000,
             "endTime": 1664496000000
         },
