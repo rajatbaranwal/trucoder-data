@@ -162,17 +162,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -378,7 +378,7 @@
         },
         {
             "id": 2,
-            "name": "Starters 72",
+            "name": "Starters 72 (Rated till 5-Stars)",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START72",
             "startTime": 1672842600000,
@@ -585,6 +585,14 @@
             "endTime": 1670731200000
         },
         {
+            "id": 4,
+            "name": "Biweekly Contest 93",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-93",
+            "startTime": 1670682600000,
+            "endTime": 1670688000000
+        },
+        {
             "id": 2,
             "name": "FallStack",
             "platform": "Codechef",
@@ -599,14 +607,6 @@
             "link": "https://www.codechef.com/DEC221",
             "startTime": 1670682600000,
             "endTime": 1670837400000
-        },
-        {
-            "id": 4,
-            "name": "Biweekly Contest 93",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-93",
-            "startTime": 1670682600000,
-            "endTime": 1670688000000
         },
         {
             "id": 3,
@@ -897,20 +897,20 @@
             "endTime": 1668270900000
         },
         {
-            "id": 2,
-            "name": "November Long 2022 (Rated for Div 3 & 4)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/NOV221",
-            "startTime": 1668263400000,
-            "endTime": 1668418200000
-        },
-        {
             "id": 4,
             "name": "Biweekly Contest 91",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-91",
             "startTime": 1668263400000,
             "endTime": 1668268800000
+        },
+        {
+            "id": 2,
+            "name": "November Long 2022 (Rated for Div 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/NOV221",
+            "startTime": 1668263400000,
+            "endTime": 1668418200000
         },
         {
             "id": 3,
