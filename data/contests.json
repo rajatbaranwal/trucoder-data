@@ -178,19 +178,19 @@
         },
         {
             "id": 5,
-            "name": "Hash Code Registration Opens",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/",
-            "startTime": 1675267200000,
-            "endTime": 1681490700000
-        },
-        {
-            "id": 5,
             "name": "Code Jam Registration Open",
             "platform": "Google",
             "link": "https://codingcompetitions.withgoogle.com/",
             "startTime": 1675267200000,
             "endTime": 1678586400000
+        },
+        {
+            "id": 5,
+            "name": "Hash Code Registration Opens",
+            "platform": "Google",
+            "link": "https://codingcompetitions.withgoogle.com/",
+            "startTime": 1675267200000,
+            "endTime": 1681490700000
         },
         {
             "id": 1,
@@ -593,12 +593,12 @@
             "endTime": 1670731200000
         },
         {
-            "id": 2,
-            "name": "FallStack",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/FLST2022",
+            "id": 4,
+            "name": "Biweekly Contest 93",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-93",
             "startTime": 1670682600000,
-            "endTime": 1670689800000
+            "endTime": 1670688000000
         },
         {
             "id": 2,
@@ -609,12 +609,12 @@
             "endTime": 1670837400000
         },
         {
-            "id": 4,
-            "name": "Biweekly Contest 93",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-93",
+            "id": 2,
+            "name": "FallStack",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/FLST2022",
             "startTime": 1670682600000,
-            "endTime": 1670688000000
+            "endTime": 1670689800000
         },
         {
             "id": 3,
@@ -626,17 +626,17 @@
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
+            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
+            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
@@ -842,6 +842,14 @@
         },
         {
             "id": 1,
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1751",
+            "startTime": 1668643200000,
+            "endTime": 1669852740000
+        },
+        {
+            "id": 1,
             "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1752",
@@ -855,14 +863,6 @@
             "link": "https://cphof.org/standings/tco_mar/2022",
             "startTime": 1668643200000,
             "endTime": 1668643200000
-        },
-        {
-            "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1751",
-            "startTime": 1668643200000,
-            "endTime": 1669852740000
         },
         {
             "id": 2,
@@ -1249,20 +1249,20 @@
             "endTime": 1665852600000
         },
         {
-            "id": 4,
-            "name": "Biweekly Contest 89",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-89",
-            "startTime": 1665844200000,
-            "endTime": 1665849600000
-        },
-        {
             "id": 2,
             "name": "Coders",
             "platform": "Codechef",
             "link": "https://www.codechef.com/CODE2022",
             "startTime": 1665844200000,
             "endTime": 1665855000000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 89",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-89",
+            "startTime": 1665844200000,
+            "endTime": 1665849600000
         },
         {
             "id": 3,
