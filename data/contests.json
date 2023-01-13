@@ -210,17 +210,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -354,17 +354,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",
+            "name": "VK Cup 2022 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1782",
+            "link": "https://codeforces.com/contests/1781",
             "startTime": 1673784300000,
             "endTime": 1673795100000
         },
         {
             "id": 1,
-            "name": "VK Cup 2022 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+            "name": "Codeforces Round (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1781",
+            "link": "https://codeforces.com/contests/1782",
             "startTime": 1673784300000,
             "endTime": 1673795100000
         },
@@ -922,14 +922,6 @@
         },
         {
             "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1751",
-            "startTime": 1668643200000,
-            "endTime": 1669852740000
-        },
-        {
-            "id": 1,
             "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1752",
@@ -943,6 +935,14 @@
             "link": "https://cphof.org/standings/tco_mar/2022",
             "startTime": 1668643200000,
             "endTime": 1668643200000
+        },
+        {
+            "id": 1,
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1751",
+            "startTime": 1668643200000,
+            "endTime": 1669852740000
         },
         {
             "id": 2,
@@ -985,20 +985,20 @@
             "endTime": 1668270900000
         },
         {
-            "id": 2,
-            "name": "November Long 2022 (Rated for Div 3 & 4)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/NOV221",
-            "startTime": 1668263400000,
-            "endTime": 1668418200000
-        },
-        {
             "id": 4,
             "name": "Biweekly Contest 91",
             "platform": "Leetcode",
             "link": "https://leetcode.com/contest/biweekly-contest-91",
             "startTime": 1668263400000,
             "endTime": 1668268800000
+        },
+        {
+            "id": 2,
+            "name": "November Long 2022 (Rated for Div 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/NOV221",
+            "startTime": 1668263400000,
+            "endTime": 1668418200000
         },
         {
             "id": 3,
@@ -1345,20 +1345,20 @@
             "endTime": 1665855000000
         },
         {
-            "id": 5,
-            "name": "Kick Start Round G",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1",
-            "startTime": 1665835200000,
-            "endTime": 1665846000000
-        },
-        {
             "id": 3,
             "name": "Panasonic Programming Contest 2022(AtCoder Beginner Contest 273)",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc273",
             "startTime": 1665835200000,
             "endTime": 1665841200000
+        },
+        {
+            "id": 5,
+            "name": "Kick Start Round G",
+            "platform": "Google",
+            "link": "https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1",
+            "startTime": 1665835200000,
+            "endTime": 1665846000000
         },
         {
             "id": 1,
@@ -1946,17 +1946,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #814 (Div. 1)",
+            "name": "Codeforces Round #814 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1718",
+            "link": "https://codeforces.com/contests/1719",
             "startTime": 1660660500000,
             "endTime": 1660667700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #814 (Div. 2)",
+            "name": "Codeforces Round #814 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1719",
+            "link": "https://codeforces.com/contests/1718",
             "startTime": 1660660500000,
             "endTime": 1660667700000
         },
