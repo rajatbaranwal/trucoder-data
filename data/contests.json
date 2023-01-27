@@ -826,19 +826,19 @@
         },
         {
             "id": 2,
-            "name": "December Long 2022 (Rated for Div 3 & 4)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEC221",
-            "startTime": 1670682600000,
-            "endTime": 1670837400000
-        },
-        {
-            "id": 2,
             "name": "FallStack",
             "platform": "Codechef",
             "link": "https://www.codechef.com/FLST2022",
             "startTime": 1670682600000,
             "endTime": 1670689800000
+        },
+        {
+            "id": 2,
+            "name": "December Long 2022 (Rated for Div 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEC221",
+            "startTime": 1670682600000,
+            "endTime": 1670837400000
         },
         {
             "id": 3,
@@ -1770,17 +1770,17 @@
         },
         {
             "id": 1,
-            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 2",
+            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 1",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1724",
+            "link": "https://codeforces.com/contests/1723",
             "startTime": 1663200000000,
             "endTime": 1664496000000
         },
         {
             "id": 1,
-            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 1",
+            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 2",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1723",
+            "link": "https://codeforces.com/contests/1724",
             "startTime": 1663200000000,
             "endTime": 1664496000000
         },
