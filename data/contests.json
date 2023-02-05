@@ -314,9 +314,9 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round #850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -330,9 +330,9 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #850 (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round #850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -343,6 +343,14 @@
             "link": "https://leetcode.com/contest/weekly-contest-331",
             "startTime": 1675564200000,
             "endTime": 1675569600000
+        },
+        {
+            "id": 6,
+            "name": "VK Cup 2022 Engine",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/vkcup/2022",
+            "startTime": 1675555200000,
+            "endTime": 1675555200000
         },
         {
             "id": 4,
@@ -938,17 +946,17 @@
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
+            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
+            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
@@ -1161,20 +1169,20 @@
             "endTime": 1669852740000
         },
         {
-            "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1752",
-            "startTime": 1668643200000,
-            "endTime": 1669852740000
-        },
-        {
             "id": 6,
             "name": "Topcoder Open 2022 Marathon",
             "platform": "Meta",
             "link": "https://cphof.org/standings/tco_mar/2022",
             "startTime": 1668643200000,
             "endTime": 1668643200000
+        },
+        {
+            "id": 1,
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1752",
+            "startTime": 1668643200000,
+            "endTime": 1669852740000
         },
         {
             "id": 2,
@@ -2178,17 +2186,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #814 (Div. 1)",
+            "name": "Codeforces Round #814 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1718",
+            "link": "https://codeforces.com/contests/1719",
             "startTime": 1660660500000,
             "endTime": 1660667700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #814 (Div. 2)",
+            "name": "Codeforces Round #814 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1719",
+            "link": "https://codeforces.com/contests/1718",
             "startTime": 1660660500000,
             "endTime": 1660667700000
         },
@@ -2391,14 +2399,6 @@
             "link": "https://www.codechef.com/IEMC2022",
             "startTime": 1659105000000,
             "endTime": 1659115800000
-        },
-        {
-            "id": 2,
-            "name": "Starters 49 (Rated for Div 2, 3 & 4)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START49",
-            "startTime": 1658932200000,
-            "endTime": 1658944800000
         }
     ]
 }
