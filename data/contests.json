@@ -386,9 +386,9 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #850 (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round #850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -402,9 +402,9 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round #850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -1234,17 +1234,17 @@
         },
         {
             "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1752",
+            "link": "https://codeforces.com/contests/1751",
             "startTime": 1668643200000,
             "endTime": 1669852740000
         },
         {
             "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1751",
+            "link": "https://codeforces.com/contests/1752",
             "startTime": 1668643200000,
             "endTime": 1669852740000
         },
