@@ -17,14 +17,6 @@
             "endTime": 1684949400000
         },
         {
-            "id": 5,
-            "name": "Kick Start Round C",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/kickstart/round/0000000000c5e831",
-            "startTime": 1684677600000,
-            "endTime": 1684688400000
-        },
-        {
             "id": 2,
             "name": "Starters 91",
             "platform": "Codechef",
@@ -33,28 +25,12 @@
             "endTime": 1684344600000
         },
         {
-            "id": 5,
-            "name": "Code Jam Round 2",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/codejam/round/0000000000c5dd4b",
-            "startTime": 1683986400000,
-            "endTime": 1683995400000
-        },
-        {
             "id": 2,
             "name": "Starters 90",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START90",
             "startTime": 1683729000000,
             "endTime": 1683739800000
-        },
-        {
-            "id": 5,
-            "name": "Coding Practice with Kick Start Session #2",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/",
-            "startTime": 1683255600000,
-            "endTime": 1683601200000
         },
         {
             "id": 2,
@@ -73,36 +49,12 @@
             "endTime": 1682530200000
         },
         {
-            "id": 5,
-            "name": "Code Jam Round 1C",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/codejam/round/0000000000c5d466",
-            "startTime": 1682154000000,
-            "endTime": 1682163000000
-        },
-        {
             "id": 2,
             "name": "Starters 87",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START87",
             "startTime": 1681914600000,
             "endTime": 1681925400000
-        },
-        {
-            "id": 5,
-            "name": "Kick Start Round B",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/kickstart/round/0000000000c5d4c3",
-            "startTime": 1681578000000,
-            "endTime": 1681588800000
-        },
-        {
-            "id": 5,
-            "name": "Hash Code Qualification Round",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/hashcode/round/0000000000c5dc2f",
-            "startTime": 1681407900000,
-            "endTime": 1681421400000
         },
         {
             "id": 2,
@@ -121,14 +73,6 @@
             "endTime": 1680715800000
         },
         {
-            "id": 5,
-            "name": "Code Jam Round 1B",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/codejam/round/0000000000c5d785",
-            "startTime": 1680451200000,
-            "endTime": 1680460200000
-        },
-        {
             "id": 2,
             "name": "Starters 83",
             "platform": "Codechef",
@@ -145,28 +89,12 @@
             "endTime": 1679848500000
         },
         {
-            "id": 5,
-            "name": "Code Jam Round 1A",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/codejam/round/0000000000c5d4c2",
-            "startTime": 1679706000000,
-            "endTime": 1679715000000
-        },
-        {
             "id": 2,
             "name": "Starters 82",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START82",
             "startTime": 1679495400000,
             "endTime": 1679506200000
-        },
-        {
-            "id": 5,
-            "name": "Kick Start Round A",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/kickstart/round/0000000000c5e029",
-            "startTime": 1679198400000,
-            "endTime": 1679209200000
         },
         {
             "id": 3,
@@ -191,14 +119,6 @@
             "link": "https://www.codechef.com/START81",
             "startTime": 1678890600000,
             "endTime": 1678901400000
-        },
-        {
-            "id": 5,
-            "name": "Code Jam Qualification Round",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/codejam/round/0000000000c5e028",
-            "startTime": 1678489200000,
-            "endTime": 1678586400000
         },
         {
             "id": 2,
@@ -311,14 +231,6 @@
             "link": "https://atcoder.jp/contests/arc157",
             "startTime": 1677326400000,
             "endTime": 1677333600000
-        },
-        {
-            "id": 5,
-            "name": "Coding Practice with Kick Start Session #1",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/",
-            "startTime": 1677254400000,
-            "endTime": 1677600000000
         },
         {
             "id": 2,
@@ -474,9 +386,9 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "VK Cup 2022 - \u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1784",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -490,9 +402,9 @@
         },
         {
             "id": 1,
-            "name": "VK Cup 2022 - \u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+            "name": "Codeforces Round #850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1784",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -546,19 +458,19 @@
         },
         {
             "id": 5,
-            "name": "Code Jam Registration Open",
-            "platform": "Google",
-            "link": "https://codingcompetitions.withgoogle.com/",
-            "startTime": 1675267200000,
-            "endTime": 1678586400000
-        },
-        {
-            "id": 5,
             "name": "Hash Code Registration Opens",
             "platform": "Google",
             "link": "https://codingcompetitions.withgoogle.com/",
             "startTime": 1675267200000,
             "endTime": 1681490700000
+        },
+        {
+            "id": 5,
+            "name": "Code Jam Registration Open",
+            "platform": "Google",
+            "link": "https://codingcompetitions.withgoogle.com/",
+            "startTime": 1675267200000,
+            "endTime": 1678586400000
         },
         {
             "id": 1,
@@ -746,17 +658,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",
+            "name": "VK Cup 2022 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1782",
+            "link": "https://codeforces.com/contests/1781",
             "startTime": 1673784300000,
             "endTime": 1673795100000
         },
         {
             "id": 1,
-            "name": "VK Cup 2022 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+            "name": "Codeforces Round #844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1781",
+            "link": "https://codeforces.com/contests/1782",
             "startTime": 1673784300000,
             "endTime": 1673795100000
         },
@@ -1066,14 +978,6 @@
         },
         {
             "id": 2,
-            "name": "December Long 2022 (Rated for Div 3 & 4)",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/DEC221",
-            "startTime": 1670682600000,
-            "endTime": 1670837400000
-        },
-        {
-            "id": 2,
             "name": "FallStack",
             "platform": "Codechef",
             "link": "https://www.codechef.com/FLST2022",
@@ -1089,6 +993,14 @@
             "endTime": 1670688000000
         },
         {
+            "id": 2,
+            "name": "December Long 2022 (Rated for Div 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/DEC221",
+            "startTime": 1670682600000,
+            "endTime": 1670837400000
+        },
+        {
             "id": 3,
             "name": "AtCoder Beginner Contest 281",
             "platform": "Atcoder",
@@ -1098,17 +1010,17 @@
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
+            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
+            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
@@ -1313,20 +1225,20 @@
             "endTime": 1668790200000
         },
         {
-            "id": 6,
-            "name": "Topcoder Open 2022 Marathon",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/tco_mar/2022",
-            "startTime": 1668643200000,
-            "endTime": 1668643200000
-        },
-        {
             "id": 1,
             "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1751",
             "startTime": 1668643200000,
             "endTime": 1669852740000
+        },
+        {
+            "id": 6,
+            "name": "Topcoder Open 2022 Marathon",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/tco_mar/2022",
+            "startTime": 1668643200000,
+            "endTime": 1668643200000
         },
         {
             "id": 1,
@@ -1473,20 +1385,20 @@
             "endTime": 1667665800000
         },
         {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 276",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc276",
-            "startTime": 1667649600000,
-            "endTime": 1667655600000
-        },
-        {
             "id": 2,
             "name": "Code-MAT",
             "platform": "Codechef",
             "link": "https://www.codechef.com/CMAT2022",
             "startTime": 1667649600000,
             "endTime": 1667656800000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 276",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc276",
+            "startTime": 1667649600000,
+            "endTime": 1667655600000
         },
         {
             "id": 3,
@@ -2010,17 +1922,17 @@
         },
         {
             "id": 1,
-            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 2",
+            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 1",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1724",
+            "link": "https://codeforces.com/contests/1723",
             "startTime": 1663200000000,
             "endTime": 1664496000000
         },
         {
             "id": 1,
-            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 1",
+            "name": "ICPC 2022 Online Challenge powered by HUAWEI - Problem 2",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1723",
+            "link": "https://codeforces.com/contests/1724",
             "startTime": 1663200000000,
             "endTime": 1664496000000
         },
@@ -2194,17 +2106,17 @@
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e09\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29 -\u6c7a\u52dd- (\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
+            "name": "\u7b2c\u4e09\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29 -\u6c7a\u52dd-",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/jsc2022-final-open",
+            "link": "https://atcoder.jp/contests/jsc2022-final",
             "startTime": 1661659800000,
             "endTime": 1661670600000
         },
         {
             "id": 3,
-            "name": "\u7b2c\u4e09\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29 -\u6c7a\u52dd-",
+            "name": "\u7b2c\u4e09\u56de\u65e5\u672c\u6700\u5f37\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5b66\u751f\u9078\u624b\u6a29 -\u6c7a\u52dd- (\u30aa\u30fc\u30d7\u30f3\u30b3\u30f3\u30c6\u30b9\u30c8)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/jsc2022-final",
+            "link": "https://atcoder.jp/contests/jsc2022-final-open",
             "startTime": 1661659800000,
             "endTime": 1661670600000
         },
@@ -2322,17 +2234,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round #814 (Div. 2)",
+            "name": "Codeforces Round #814 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1719",
+            "link": "https://codeforces.com/contests/1718",
             "startTime": 1660660500000,
             "endTime": 1660667700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round #814 (Div. 1)",
+            "name": "Codeforces Round #814 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1718",
+            "link": "https://codeforces.com/contests/1719",
             "startTime": 1660660500000,
             "endTime": 1660667700000
         },
@@ -2399,6 +2311,94 @@
             "link": "https://www.codechef.com/AUG221",
             "startTime": 1660296600000,
             "endTime": 1660555800000
+        },
+        {
+            "id": 2,
+            "name": "Starters 51 (Rated for Div 2, 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START51",
+            "startTime": 1660141800000,
+            "endTime": 1660152600000
+        },
+        {
+            "id": 3,
+            "name": "RECRUIT Nihonbashi Half Marathon 2022 Summer\uff08AHC013\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/ahc013",
+            "startTime": 1660046400000,
+            "endTime": 1660651200000
+        },
+        {
+            "id": 4,
+            "name": "Weekly Contest 305",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/weekly-contest-305",
+            "startTime": 1659839400000,
+            "endTime": 1659844800000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round #812 (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1713",
+            "startTime": 1659796500000,
+            "endTime": 1659803700000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 84",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-84",
+            "startTime": 1659796200000,
+            "endTime": 1659801600000
+        },
+        {
+            "id": 3,
+            "name": "LINE  Verda Programming Contest\uff08AtCoder Beginner Contest 263\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc263",
+            "startTime": 1659787200000,
+            "endTime": 1659793200000
+        },
+        {
+            "id": 2,
+            "name": "Code and Thunder",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/CDTH2022",
+            "startTime": 1659767400000,
+            "endTime": 1659796200000
+        },
+        {
+            "id": 5,
+            "name": "Code Jam World Finals",
+            "platform": "Google",
+            "link": "https://codingcompetitions.withgoogle.com/codejam/round/000000000087762e",
+            "startTime": 1659704400000,
+            "endTime": 1659718800000
+        },
+        {
+            "id": 6,
+            "name": "Google Code Jam 2022",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/gcj/2022",
+            "startTime": 1659657600000,
+            "endTime": 1659657600000
+        },
+        {
+            "id": 1,
+            "name": "Educational Codeforces Round 133 (Rated for Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1716",
+            "startTime": 1659623700000,
+            "endTime": 1659630900000
+        },
+        {
+            "id": 2,
+            "name": "Starters 50 (Rated for Div 2, 3 & 4)",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START50",
+            "startTime": 1659537000000,
+            "endTime": 1659547800000
         }
     ]
 }
