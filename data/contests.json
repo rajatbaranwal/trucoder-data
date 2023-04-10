@@ -938,17 +938,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -1538,17 +1538,17 @@
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
+            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
         {
             "id": 3,
-            "name": "HACK TO THE FUTURE 2023 \u672c\u9078",
+            "name": "HACK TO THE FUTURE 2023 Final (Open Contest)",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/future-contest-2023-final",
+            "link": "https://atcoder.jp/contests/future-contest-2023-final-open",
             "startTime": 1670635800000,
             "endTime": 1670664600000
         },
@@ -1753,12 +1753,12 @@
             "endTime": 1668790200000
         },
         {
-            "id": 6,
-            "name": "Topcoder Open 2022 Marathon",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/tco_mar/2022",
+            "id": 1,
+            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1751",
             "startTime": 1668643200000,
-            "endTime": 1668643200000
+            "endTime": 1669852740000
         },
         {
             "id": 1,
@@ -1769,12 +1769,12 @@
             "endTime": 1669852740000
         },
         {
-            "id": 1,
-            "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 2",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1751",
+            "id": 6,
+            "name": "Topcoder Open 2022 Marathon",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/tco_mar/2022",
             "startTime": 1668643200000,
-            "endTime": 1669852740000
+            "endTime": 1668643200000
         },
         {
             "id": 2,
