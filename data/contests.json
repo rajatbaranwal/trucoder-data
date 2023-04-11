@@ -226,17 +226,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 865 (Div. 1)",
+            "name": "Codeforces Round 865 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1815",
+            "link": "https://codeforces.com/contests/1816",
             "startTime": 1681051500000,
             "endTime": 1681059600000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 865 (Div. 2)",
+            "name": "Codeforces Round 865 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1816",
+            "link": "https://codeforces.com/contests/1815",
             "startTime": 1681051500000,
             "endTime": 1681059600000
         },
@@ -345,20 +345,20 @@
             "endTime": 1680364800000
         },
         {
-            "id": 2,
-            "name": "Fool You 2023",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/FLYU2023",
-            "startTime": 1680350400000,
-            "endTime": 1680357600000
-        },
-        {
             "id": 3,
             "name": "AtCoder Beginner Contest 296",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc296",
             "startTime": 1680350400000,
             "endTime": 1680356400000
+        },
+        {
+            "id": 2,
+            "name": "Fool You 2023",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/FLYU2023",
+            "startTime": 1680350400000,
+            "endTime": 1680357600000
         },
         {
             "id": 1,
@@ -642,17 +642,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 857 (Div. 2)",
+            "name": "Codeforces Round 857 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1802",
+            "link": "https://codeforces.com/contests/1801",
             "startTime": 1678354500000,
             "endTime": 1678365300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 857 (Div. 1)",
+            "name": "Codeforces Round 857 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1801",
+            "link": "https://codeforces.com/contests/1802",
             "startTime": 1678354500000,
             "endTime": 1678365300000
         },
@@ -946,14 +946,6 @@
         },
         {
             "id": 1,
-            "name": "VK Cup 2022 - \u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1784",
-            "startTime": 1675598700000,
-            "endTime": 1675609500000
-        },
-        {
-            "id": 1,
             "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1785",
@@ -965,6 +957,14 @@
             "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1786",
+            "startTime": 1675598700000,
+            "endTime": 1675609500000
+        },
+        {
+            "id": 1,
+            "name": "VK Cup 2022 - \u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1784",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -2161,20 +2161,20 @@
             "endTime": 1665852600000
         },
         {
-            "id": 4,
-            "name": "Biweekly Contest 89",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-89",
-            "startTime": 1665844200000,
-            "endTime": 1665849600000
-        },
-        {
             "id": 2,
             "name": "Coders",
             "platform": "Codechef",
             "link": "https://www.codechef.com/CODE2022",
             "startTime": 1665844200000,
             "endTime": 1665855000000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 89",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-89",
+            "startTime": 1665844200000,
+            "endTime": 1665849600000
         },
         {
             "id": 3,
