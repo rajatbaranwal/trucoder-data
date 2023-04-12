@@ -234,17 +234,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 1)",
+            "name": "Codeforces Round 866 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1819",
+            "link": "https://codeforces.com/contests/1820",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 2)",
+            "name": "Codeforces Round 866 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1820",
+            "link": "https://codeforces.com/contests/1819",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
@@ -255,6 +255,14 @@
             "link": "https://codeforces.com/contests/1813",
             "startTime": 1681383600000,
             "endTime": 1682593200000
+        },
+        {
+            "id": 2,
+            "name": "codingOlympiad",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/COLY2023",
+            "startTime": 1681360200000,
+            "endTime": 1681365000000
         },
         {
             "id": 2,
@@ -586,17 +594,17 @@
         },
         {
             "id": 3,
-            "name": "Toyota Programming Contest 2023 Spring Final\uff08Open Contest\uff09",
+            "name": "Toyota Programming Contest 2023 Spring Final",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/toyota2023spring-final-open",
+            "link": "https://atcoder.jp/contests/toyota2023spring-final",
             "startTime": 1679101800000,
             "endTime": 1679112600000
         },
         {
             "id": 3,
-            "name": "Toyota Programming Contest 2023 Spring Final",
+            "name": "Toyota Programming Contest 2023 Spring Final\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/toyota2023spring-final",
+            "link": "https://atcoder.jp/contests/toyota2023spring-final-open",
             "startTime": 1679101800000,
             "endTime": 1679112600000
         },
@@ -1151,14 +1159,6 @@
             "link": "https://codeforces.com/contests/1792",
             "startTime": 1674570900000,
             "endTime": 1674578100000
-        },
-        {
-            "id": 2,
-            "name": "codingOlympiad",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/COLY2023",
-            "startTime": 1674570600000,
-            "endTime": 1674583200000
         },
         {
             "id": 2,
