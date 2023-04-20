@@ -66,19 +66,19 @@
         },
         {
             "id": 2,
-            "name": "STARTERS 92",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START92",
-            "startTime": 1685543400000,
-            "endTime": 1685550600000
-        },
-        {
-            "id": 2,
             "name": "Starters 93",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START93",
             "startTime": 1685543400000,
             "endTime": 1685554200000
+        },
+        {
+            "id": 2,
+            "name": "STARTERS 92",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START92",
+            "startTime": 1685543400000,
+            "endTime": 1685550600000
         },
         {
             "id": 2,
@@ -762,17 +762,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 857 (Div. 1)",
+            "name": "Codeforces Round 857 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1801",
+            "link": "https://codeforces.com/contests/1802",
             "startTime": 1678354500000,
             "endTime": 1678365300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 857 (Div. 2)",
+            "name": "Codeforces Round 857 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1802",
+            "link": "https://codeforces.com/contests/1801",
             "startTime": 1678354500000,
             "endTime": 1678365300000
         },
@@ -1873,14 +1873,6 @@
             "endTime": 1668790200000
         },
         {
-            "id": 6,
-            "name": "Topcoder Open 2022 Marathon",
-            "platform": "Meta",
-            "link": "https://cphof.org/standings/tco_mar/2022",
-            "startTime": 1668643200000,
-            "endTime": 1668643200000
-        },
-        {
             "id": 1,
             "name": "45th ICPC World Finals Challenge powered by Huawei - Problem 1",
             "platform": "Codeforces",
@@ -1895,6 +1887,14 @@
             "link": "https://codeforces.com/contests/1751",
             "startTime": 1668643200000,
             "endTime": 1669852740000
+        },
+        {
+            "id": 6,
+            "name": "Topcoder Open 2022 Marathon",
+            "platform": "Meta",
+            "link": "https://cphof.org/standings/tco_mar/2022",
+            "startTime": 1668643200000,
+            "endTime": 1668643200000
         },
         {
             "id": 2,
