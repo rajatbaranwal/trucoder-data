@@ -66,19 +66,19 @@
         },
         {
             "id": 2,
-            "name": "Starters 93",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/START93",
-            "startTime": 1685543400000,
-            "endTime": 1685554200000
-        },
-        {
-            "id": 2,
             "name": "STARTERS 92",
             "platform": "Codechef",
             "link": "https://www.codechef.com/START92",
             "startTime": 1685543400000,
             "endTime": 1685550600000
+        },
+        {
+            "id": 2,
+            "name": "Starters 93",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/START93",
+            "startTime": 1685543400000,
+            "endTime": 1685554200000
         },
         {
             "id": 2,
@@ -306,17 +306,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 1)",
+            "name": "Codeforces Round 866 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1819",
+            "link": "https://codeforces.com/contests/1820",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 2)",
+            "name": "Codeforces Round 866 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1820",
+            "link": "https://codeforces.com/contests/1819",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
@@ -346,17 +346,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 865 (Div. 1)",
+            "name": "Codeforces Round 865 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1815",
+            "link": "https://codeforces.com/contests/1816",
             "startTime": 1681051500000,
             "endTime": 1681059600000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 865 (Div. 2)",
+            "name": "Codeforces Round 865 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1816",
+            "link": "https://codeforces.com/contests/1815",
             "startTime": 1681051500000,
             "endTime": 1681059600000
         },
