@@ -106,17 +106,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1835",
+            "link": "https://codeforces.com/contests/1836",
             "startTime": 1687098900000,
             "endTime": 1687106100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1836",
+            "link": "https://codeforces.com/contests/1835",
             "startTime": 1687098900000,
             "endTime": 1687106100000
         },
@@ -210,17 +210,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 875 (Div. 2)",
+            "name": "Codeforces Round 875 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1831",
+            "link": "https://codeforces.com/contests/1830",
             "startTime": 1685284500000,
             "endTime": 1685293500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 875 (Div. 1)",
+            "name": "Codeforces Round 875 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1830",
+            "link": "https://codeforces.com/contests/1831",
             "startTime": 1685284500000,
             "endTime": 1685293500000
         },
@@ -394,17 +394,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 872 (Div. 1)",
+            "name": "Codeforces Round 872 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1824",
+            "link": "https://codeforces.com/contests/1825",
             "startTime": 1683547500000,
             "endTime": 1683554700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 872 (Div. 2)",
+            "name": "Codeforces Round 872 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1825",
+            "link": "https://codeforces.com/contests/1824",
             "startTime": 1683547500000,
             "endTime": 1683554700000
         },
@@ -650,17 +650,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 2)",
+            "name": "Codeforces Round 866 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1820",
+            "link": "https://codeforces.com/contests/1819",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 1)",
+            "name": "Codeforces Round 866 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1819",
+            "link": "https://codeforces.com/contests/1820",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
