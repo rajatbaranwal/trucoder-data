@@ -66,17 +66,17 @@
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day1",
+            "name": "AGC: World Tour Finals 2022 Day1\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day1",
+            "link": "https://atcoder.jp/contests/wtf22-day1-open",
             "startTime": 1694145600000,
             "endTime": 1694160000000
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day1\uff08Open Contest\uff09",
+            "name": "AGC: World Tour Finals 2022 Day1",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day1-open",
+            "link": "https://atcoder.jp/contests/wtf22-day1",
             "startTime": 1694145600000,
             "endTime": 1694160000000
         },
@@ -730,17 +730,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 872 (Div. 2)",
+            "name": "Codeforces Round 872 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1825",
+            "link": "https://codeforces.com/contests/1824",
             "startTime": 1683547500000,
             "endTime": 1683554700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 872 (Div. 1)",
+            "name": "Codeforces Round 872 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1824",
+            "link": "https://codeforces.com/contests/1825",
             "startTime": 1683547500000,
             "endTime": 1683554700000
         },
@@ -986,17 +986,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 1)",
+            "name": "Codeforces Round 866 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1819",
+            "link": "https://codeforces.com/contests/1820",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 866 (Div. 2)",
+            "name": "Codeforces Round 866 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1820",
+            "link": "https://codeforces.com/contests/1819",
             "startTime": 1681549500000,
             "endTime": 1681556700000
         },
@@ -1026,17 +1026,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 865 (Div. 1)",
+            "name": "Codeforces Round 865 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1815",
+            "link": "https://codeforces.com/contests/1816",
             "startTime": 1681051500000,
             "endTime": 1681059600000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 865 (Div. 2)",
+            "name": "Codeforces Round 865 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1816",
+            "link": "https://codeforces.com/contests/1815",
             "startTime": 1681051500000,
             "endTime": 1681059600000
         },
@@ -1145,20 +1145,20 @@
             "endTime": 1680364800000
         },
         {
-            "id": 2,
-            "name": "Fool You 2023",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/FLYU2023",
-            "startTime": 1680350400000,
-            "endTime": 1680357600000
-        },
-        {
             "id": 3,
             "name": "AtCoder Beginner Contest 296",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/abc296",
             "startTime": 1680350400000,
             "endTime": 1680356400000
+        },
+        {
+            "id": 2,
+            "name": "Fool You 2023",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/FLYU2023",
+            "startTime": 1680350400000,
+            "endTime": 1680357600000
         },
         {
             "id": 1,
