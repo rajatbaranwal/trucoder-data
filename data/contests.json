@@ -2,14 +2,6 @@
     "contests": [
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2-open",
-            "startTime": 1694232000000,
-            "endTime": 1694246400000
-        },
-        {
-            "id": 3,
             "name": "AGC: World Tour Finals 2022 Day2",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/wtf22-day2",
@@ -18,17 +10,25 @@
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day1\uff08Open Contest\uff09",
+            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day1-open",
-            "startTime": 1694145600000,
-            "endTime": 1694160000000
+            "link": "https://atcoder.jp/contests/wtf22-day2-open",
+            "startTime": 1694232000000,
+            "endTime": 1694246400000
         },
         {
             "id": 3,
             "name": "AGC: World Tour Finals 2022 Day1",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/wtf22-day1",
+            "startTime": 1694145600000,
+            "endTime": 1694160000000
+        },
+        {
+            "id": 3,
+            "name": "AGC: World Tour Finals 2022 Day1\uff08Open Contest\uff09",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/wtf22-day1-open",
             "startTime": 1694145600000,
             "endTime": 1694160000000
         },
@@ -386,17 +386,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 880 (Div. 1)",
+            "name": "Codeforces Round 880 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1835",
+            "link": "https://codeforces.com/contests/1836",
             "startTime": 1687098900000,
             "endTime": 1687106100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 880 (Div. 2)",
+            "name": "Codeforces Round 880 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1836",
+            "link": "https://codeforces.com/contests/1835",
             "startTime": 1687098900000,
             "endTime": 1687106100000
         },
@@ -1746,17 +1746,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -2298,11 +2298,11 @@
         },
         {
             "id": 2,
-            "name": "December Long 2022 (Rated for Div 3 & 4)",
+            "name": "FallStack",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/DEC221",
+            "link": "https://www.codechef.com/FLST2022",
             "startTime": 1670682600000,
-            "endTime": 1670837400000
+            "endTime": 1670689800000
         },
         {
             "id": 4,
@@ -2314,11 +2314,11 @@
         },
         {
             "id": 2,
-            "name": "FallStack",
+            "name": "December Long 2022 (Rated for Div 3 & 4)",
             "platform": "Codechef",
-            "link": "https://www.codechef.com/FLST2022",
+            "link": "https://www.codechef.com/DEC221",
             "startTime": 1670682600000,
-            "endTime": 1670689800000
+            "endTime": 1670837400000
         },
         {
             "id": 3,
