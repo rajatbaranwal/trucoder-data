@@ -97,6 +97,22 @@
             "endTime": 1693068600000
         },
         {
+            "id": 1,
+            "name": "Codeforces Round (Div. 2)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1865",
+            "startTime": 1693060500000,
+            "endTime": 1693069500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round (Div. 1)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1864",
+            "startTime": 1693060500000,
+            "endTime": 1693069500000
+        },
+        {
             "id": 3,
             "name": "GAMEFREAK Programming Contest 2023 (AtCoder Beginner Contest 317)",
             "platform": "Atcoder",
@@ -330,17 +346,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 887 (Div. 2)",
+            "name": "Codeforces Round 887 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1853",
+            "link": "https://codeforces.com/contests/1852",
             "startTime": 1690122900000,
             "endTime": 1690131900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 887 (Div. 1)",
+            "name": "Codeforces Round 887 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1852",
+            "link": "https://codeforces.com/contests/1853",
             "startTime": 1690122900000,
             "endTime": 1690131900000
         },
@@ -1345,20 +1361,20 @@
             "endTime": 1680364800000
         },
         {
-            "id": 3,
-            "name": "AtCoder Beginner Contest 296",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/abc296",
-            "startTime": 1680350400000,
-            "endTime": 1680356400000
-        },
-        {
             "id": 2,
             "name": "Fool You 2023",
             "platform": "Codechef",
             "link": "https://www.codechef.com/FLYU2023",
             "startTime": 1680350400000,
             "endTime": 1680357600000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Beginner Contest 296",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/abc296",
+            "startTime": 1680350400000,
+            "endTime": 1680356400000
         },
         {
             "id": 1,
@@ -1689,20 +1705,20 @@
             "endTime": 1677958500000
         },
         {
-            "id": 4,
-            "name": "Biweekly Contest 99",
-            "platform": "Leetcode",
-            "link": "https://leetcode.com/contest/biweekly-contest-99",
-            "startTime": 1677940200000,
-            "endTime": 1677945600000
-        },
-        {
             "id": 2,
             "name": "Dementia",
             "platform": "Codechef",
             "link": "https://www.codechef.com/DMTI2023",
             "startTime": 1677940200000,
             "endTime": 1677947400000
+        },
+        {
+            "id": 4,
+            "name": "Biweekly Contest 99",
+            "platform": "Leetcode",
+            "link": "https://leetcode.com/contest/biweekly-contest-99",
+            "startTime": 1677940200000,
+            "endTime": 1677945600000
         },
         {
             "id": 3,
@@ -1954,17 +1970,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -2383,22 +2399,6 @@
             "link": "https://atcoder.jp/contests/abc283",
             "startTime": 1671883200000,
             "endTime": 1671889200000
-        },
-        {
-            "id": 3,
-            "name": "Xmas Contest 2022",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/xmascon22",
-            "startTime": 1671858000000,
-            "endTime": 1671872400000
-        },
-        {
-            "id": 3,
-            "name": "Hitachi Hokudai Lab. & Hokkaido University Contest 2022",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/hokudai-hitachi2022",
-            "startTime": 1671721200000,
-            "endTime": 1674399540000
         }
     ]
 }
