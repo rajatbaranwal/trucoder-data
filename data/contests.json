@@ -18,17 +18,17 @@
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day2",
+            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2",
+            "link": "https://atcoder.jp/contests/wtf22-day2-open",
             "startTime": 1694232000000,
             "endTime": 1694246400000
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2022 Day2\uff08Open Contest\uff09",
+            "name": "AGC: World Tour Finals 2022 Day2",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2-open",
+            "link": "https://atcoder.jp/contests/wtf22-day2",
             "startTime": 1694232000000,
             "endTime": 1694246400000
         },
@@ -125,14 +125,6 @@
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1864",
-            "startTime": 1693060500000,
-            "endTime": 1693069500000
-        },
-        {
-            "id": 1,
-            "name": "Codeforces Round (Div. 2)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1865",
             "startTime": 1693060500000,
             "endTime": 1693069500000
         },
@@ -642,17 +634,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 880 (Div. 2)",
+            "name": "Codeforces Round 880 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1836",
+            "link": "https://codeforces.com/contests/1835",
             "startTime": 1687098900000,
             "endTime": 1687106100000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 880 (Div. 1)",
+            "name": "Codeforces Round 880 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1835",
+            "link": "https://codeforces.com/contests/1836",
             "startTime": 1687098900000,
             "endTime": 1687106100000
         },
@@ -978,17 +970,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 872 (Div. 2)",
+            "name": "Codeforces Round 872 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1825",
+            "link": "https://codeforces.com/contests/1824",
             "startTime": 1683547500000,
             "endTime": 1683554700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 872 (Div. 1)",
+            "name": "Codeforces Round 872 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1824",
+            "link": "https://codeforces.com/contests/1825",
             "startTime": 1683547500000,
             "endTime": 1683554700000
         },
@@ -1042,17 +1034,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 869 (Div. 2)",
+            "name": "Codeforces Round 869 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1818",
+            "link": "https://codeforces.com/contests/1817",
             "startTime": 1682778900000,
             "endTime": 1682787000000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 869 (Div. 1)",
+            "name": "Codeforces Round 869 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1817",
+            "link": "https://codeforces.com/contests/1818",
             "startTime": 1682778900000,
             "endTime": 1682787000000
         },
@@ -1690,17 +1682,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 857 (Div. 1)",
+            "name": "Codeforces Round 857 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1801",
+            "link": "https://codeforces.com/contests/1802",
             "startTime": 1678354500000,
             "endTime": 1678365300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 857 (Div. 2)",
+            "name": "Codeforces Round 857 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1802",
+            "link": "https://codeforces.com/contests/1801",
             "startTime": 1678354500000,
             "endTime": 1678365300000
         },
@@ -1994,9 +1986,9 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1786",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -2010,9 +2002,9 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
+            "link": "https://codeforces.com/contests/1786",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
@@ -2399,6 +2391,14 @@
             "link": "https://codeforces.com/contests/1731",
             "startTime": 1672151700000,
             "endTime": 1672158900000
+        },
+        {
+            "id": 3,
+            "name": "AtCoder Grand Contest 060",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/agc060",
+            "startTime": 1671969600000,
+            "endTime": 1671980400000
         }
     ]
 }
