@@ -18,17 +18,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1870",
+            "link": "https://codeforces.com/contests/1871",
             "startTime": 1695047700000,
             "endTime": 1695054900000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1871",
+            "link": "https://codeforces.com/contests/1870",
             "startTime": 1695047700000,
             "endTime": 1695054900000
         },
@@ -66,17 +66,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1869",
+            "link": "https://codeforces.com/contests/1868",
             "startTime": 1694354700000,
             "endTime": 1694363700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1868",
+            "link": "https://codeforces.com/contests/1869",
             "startTime": 1694354700000,
             "endTime": 1694363700000
         },
@@ -98,14 +98,6 @@
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2023 Day2",
-            "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day2",
-            "startTime": 1694232000000,
-            "endTime": 1694250000000
-        },
-        {
-            "id": 3,
             "name": "AGC: World Tour Finals 2023 Day2\uff08Open Contest\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/wtf22-day2-open",
@@ -114,17 +106,25 @@
         },
         {
             "id": 3,
-            "name": "AGC: World Tour Finals 2023 Day1",
+            "name": "AGC: World Tour Finals 2023 Day2",
             "platform": "Atcoder",
-            "link": "https://atcoder.jp/contests/wtf22-day1",
-            "startTime": 1694145600000,
-            "endTime": 1694163600000
+            "link": "https://atcoder.jp/contests/wtf22-day2",
+            "startTime": 1694232000000,
+            "endTime": 1694250000000
         },
         {
             "id": 3,
             "name": "AGC: World Tour Finals 2023 Day1\uff08Open Contest\uff09",
             "platform": "Atcoder",
             "link": "https://atcoder.jp/contests/wtf22-day1-open",
+            "startTime": 1694145600000,
+            "endTime": 1694163600000
+        },
+        {
+            "id": 3,
+            "name": "AGC: World Tour Finals 2023 Day1",
+            "platform": "Atcoder",
+            "link": "https://atcoder.jp/contests/wtf22-day1",
             "startTime": 1694145600000,
             "endTime": 1694163600000
         },
