@@ -98,17 +98,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 896 (Div. 2)",
+            "name": "Codeforces Round 896 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1869",
+            "link": "https://codeforces.com/contests/1868",
             "startTime": 1694354700000,
             "endTime": 1694363700000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 896 (Div. 1)",
+            "name": "Codeforces Round 896 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1868",
+            "link": "https://codeforces.com/contests/1869",
             "startTime": 1694354700000,
             "endTime": 1694363700000
         },
@@ -498,17 +498,17 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 889 (Div. 1)",
+            "name": "Codeforces Round 889 (Div. 2)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1854",
+            "link": "https://codeforces.com/contests/1855",
             "startTime": 1690641300000,
             "endTime": 1690650300000
         },
         {
             "id": 1,
-            "name": "Codeforces Round 889 (Div. 2)",
+            "name": "Codeforces Round 889 (Div. 1)",
             "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1855",
+            "link": "https://codeforces.com/contests/1854",
             "startTime": 1690641300000,
             "endTime": 1690650300000
         },
@@ -2154,14 +2154,6 @@
         },
         {
             "id": 1,
-            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
-            "platform": "Codeforces",
-            "link": "https://codeforces.com/contests/1785",
-            "startTime": 1675598700000,
-            "endTime": 1675609500000
-        },
-        {
-            "id": 1,
             "name": "VK Cup 2022 - \u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1784",
@@ -2173,6 +2165,14 @@
             "name": "Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",
             "platform": "Codeforces",
             "link": "https://codeforces.com/contests/1786",
+            "startTime": 1675598700000,
+            "endTime": 1675609500000
+        },
+        {
+            "id": 1,
+            "name": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
+            "platform": "Codeforces",
+            "link": "https://codeforces.com/contests/1785",
             "startTime": 1675598700000,
             "endTime": 1675609500000
         },
