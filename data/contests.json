@@ -98,14 +98,6 @@
         },
         {
             "id": 2,
-            "name": "KrackTheCode - 2",
-            "platform": "Codechef",
-            "link": "https://www.codechef.com/KRC22023",
-            "startTime": 1694788200000,
-            "endTime": 1694799000000
-        },
-        {
-            "id": 2,
             "name": "KrackTheCode - 1",
             "platform": "Codechef",
             "link": "https://www.codechef.com/KRC12023",
@@ -119,6 +111,14 @@
             "link": "https://www.codechef.com/START100",
             "startTime": 1694615400000,
             "endTime": 1694622600000
+        },
+        {
+            "id": 2,
+            "name": "KrackTheCode - 2",
+            "platform": "Codechef",
+            "link": "https://www.codechef.com/KRC22023",
+            "startTime": 1694489400000,
+            "endTime": 1694845800000
         },
         {
             "id": 1,
